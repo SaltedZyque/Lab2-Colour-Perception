@@ -4,7 +4,7 @@ The pictures (called plates) are shown below from 1 to 12.  Identify the number 
 
 #### Plate 1:
 
-![|200]("assets/ishihara_test/Ishihara_01.jpg")
+![|200](assets/ishihara_test/Ishihara_01.jpg)
 
 #### Plate 2:
 
