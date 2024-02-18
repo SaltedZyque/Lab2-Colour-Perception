@@ -29,7 +29,7 @@ You can start the test [here](Ishihara_test.md).
 
 You should see the American flag in the normal red, white and blue colours.
 
-<p align="center"> <img src="assets/american_flag.jpg" /> </p><BR>
+<img src="american_flag.jpg" />
 
 Explain the reasons why this happens.
 
