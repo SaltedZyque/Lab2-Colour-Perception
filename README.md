@@ -118,6 +118,7 @@ In this task, we will convert the RGB image into a grayscale image. The formula 
 ```
 
 In matrix form, it is:
+
 ![](assets/grayscale_eq.jpg)
 
 The function **rgb2gray( )** converts RGB values to grayscale values by forming a weighted sum of the R, G, and B components according to the equation above. 
