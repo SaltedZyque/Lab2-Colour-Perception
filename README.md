@@ -13,13 +13,16 @@ Clone this repo to your laptop and do all your work using your local copy.
 
 Play the video [here](http://www.ee.ic.ac.uk/pcheung/teaching/DE4_DVS/assets/blind_spot_test.mp4) and follow its instructions.  Make notes on what you found out.
 
-<video src="assets/blind_spot_test.mp4" width="480" height="360" controls></video>
+![](assets/blind_spot_test.mp4)
 
 ### Task 2 - Ishihara Colour Test
 
 The Ishihara test is a colour vision test designed to detect deficiencies in the long and medium cones.  It consists of one set of pictures containing colour dots with a number embedded within.  Your goal is to identify the number you see in each of them.
 
+![|200](assets/ishihara_test/Ishihara_01.jpg)
+
 You can start the test [here](Ishihara_test.md).
+
 
 ### Task 3 - Reverse colour
 
@@ -115,8 +118,7 @@ In this task, we will convert the RGB image into a grayscale image. The formula 
 ```
 
 In matrix form, it is:
-
-<p align="center"> <img src="assets/grayscale_eq.jpg" /> </p>
+![](assets/grayscale_eq.jpg)
 
 The function **rgb2gray( )** converts RGB values to grayscale values by forming a weighted sum of the R, G, and B components according to the equation above. 
 

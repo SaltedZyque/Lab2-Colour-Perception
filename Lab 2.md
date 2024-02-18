@@ -10,7 +10,7 @@ Bits where the brain fills in the blind spot area based on surroundings:
 ## 2 - Ishihara Test
 Colour blind colour dots test - helps detect medium and long cone deficiencies (red-green colourblindness)
 
-![](Ishihara_01.jpg)
+![|200](assets/ishihara_test/Ishihara_01.jpg)
 
 ## 3 - Reverse Colour
 
@@ -18,7 +18,7 @@ Colour blind colour dots test - helps detect medium and long cone deficiencies (
 2. Now stare at white dot in the centre image below for 10+ secs.
 3. Quickly switch gaze to the white sheet of paper.
 
-![[american_flag.jpg]]
+![|300][assets/american_flag.jpg]
 
 Observed: Image of flag with red, white, blue US flag colours on the paper
 Why? (TBD)
