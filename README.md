@@ -27,8 +27,8 @@ Why? (TBD)
 
 Visual information disappears from peripheral view once the brain adapts to it and regards it as useless information
 
-![|200](assets/purple_dots.mp4)
-![|200](assets/blue_circle.mp4)
+![](assets/purple_dots.mp4)
+![](assets/blue_circle.mp4)
 ## 5 - Brain Sees What it Expects
 
 
